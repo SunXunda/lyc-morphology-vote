@@ -1,0 +1,18 @@
+{
+  "total": 114,
+  "unclassified": 58,
+  "ambiguous": 17,
+  "priority": 75,
+  "with_images": 114,
+  "papers": 32,
+  "pdfs": 32,
+  "image_entries": 139,
+  "snapshot_sha256": "ab88d886ebc92d59ec85a9765171e31dad42445c3ea6d486d6c325d1d63f8d1c",
+  "scope": "Current 114-source photon revision, its cited calibrations and follow-up literature, plus original imaging references; not every manuscript bibliography entry.",
+  "notes": [
+    "No classifications changed.",
+    "42 LaCOS RGB; 25 COS previews plus 25 SDSS; 46 paper panels; one SDSS-only source.",
+    "An image is not necessarily sufficient to classify morphology.",
+    "Known GOODS-S panels include original classification labels."
+  ]
+}

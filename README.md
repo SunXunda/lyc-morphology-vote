@@ -1,2 +1,14 @@
-# lyc-morphology-vote
-Collaborative visual morphology review of 114 LyC sources, with username-only voting and shared spreadsheet export.
+# LyC morphology voting
+
+入口：https://sunxunda.github.io/lyc-morphology-vote/
+
+114 个源，75 个优先复核目标，32 篇原文链接。双图左右对照；仅填写用户名，无需密码。
+
+选择“并合迹象 / 未见并合迹象 / 无法判断”，可另存置信度和备注。
+同名会继续同一份记录；请用固定且不与别人重复的用户名。
+“汇总与导出”提供 Excel、矩阵 CSV、备注明细 CSV。每个源一行、每个用户名一列。
+个人 JSON 可用于备份、迁移和导入。
+
+网页由 GitHub Pages 提供，投票由独立托管数据库持久保存，记录不会自动写入此公开仓库。
+照片和论文图像归原作者或对应观测项目所有，逐图注明来源；此前分类与投票分开保存。
+未见可见并合迹象不等于排除了并合，不确定也不并入非并合。
